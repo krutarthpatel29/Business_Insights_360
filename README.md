@@ -179,7 +179,7 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/krutarthpatel29/Business_Insights_360/blob/main/Business%20Insights%20360.pbix)
 
 
 ## Project Outcome
